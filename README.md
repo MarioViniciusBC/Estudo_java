@@ -32,4 +32,12 @@ Os artigos do repositório podem incluir:
 
 ---
 
-## 📂 Estrutura do Repositório
+## 📚 Referências Utilizadas
+
+- Documentação oficial da Oracle  
+- Livros clássicos de Java (Deitel, Sierra & Bates, Joshua Bloch)  
+- Artigos técnicos especializados  
+
+---
+
+**Projeto voltado exclusivamente para fins educacionais.**
